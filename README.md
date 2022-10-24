@@ -1,4 +1,4 @@
-# Udersampling-and-Oversampling-techniques-for-imbalanced-datasets
+# Undersampling-and-Oversampling-techniques-for-imbalanced-datasets
 
 This is a beginner friendly project on working with and fixing imbalances in datasets.
 
