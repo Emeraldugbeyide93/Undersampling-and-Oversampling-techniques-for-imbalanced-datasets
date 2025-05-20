@@ -2,7 +2,7 @@
 
 This is a beginner friendly project on working with and fixing imbalances in datasets.
 
-This project uses the undersampling and ovrsampling method of fixing imbalances.
+This project uses the undersampling and oversampling method of fixing imbalances.
 
 The dataset used in this project are scraped customer reviews from The Co-operative bank mobile banking application.
 
